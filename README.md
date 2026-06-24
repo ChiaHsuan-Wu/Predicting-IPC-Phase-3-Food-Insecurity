@@ -1,8 +1,8 @@
 # Predicting IPC Phase 3+ Food Insecurity
-**MSc Data Science Project | In Collaboration with [Zero Hunger Lab](https://www.zerohungerlab.nl/) & Tilburg University**
+**MSc Data Science Project | In Collaboration with [Zero Hunger Lab](https://www.tilburguniversity.edu/research/institutes-and-research-groups/zero-hunger-lab) & Tilburg University**
 
 ### Project Overview
-This repository contains the end-to-end predictive analytics pipeline developed to forecast **IPC Phase 3+ (Crisis or worse) food insecurity conditions** across 5 sub-Saharan African nations (Central African Republic, Madagascar, Mozambique, Somalia, and South Sudan). Leveraging multi-domain open-source spatial-temporal datasets provided in collaboration with the **[Zero Hunger Lab](https://www.zerohungerlab.nl/)**, this project successfully applies cost-sensitive machine learning to transform volatile environmental and conflict data into high-recall, policy-relevant humanitarian insights.
+This repository contains the end-to-end predictive analytics pipeline developed to forecast **IPC Phase 3+ (Crisis or worse) food insecurity conditions** across 5 sub-Saharan African nations (Central African Republic, Madagascar, Mozambique, Somalia, and South Sudan). Leveraging multi-domain open-source spatial-temporal datasets provided in collaboration with the **[Zero Hunger Lab](https://www.tilburguniversity.edu/research/institutes-and-research-groups/zero-hunger-lab)**, this project successfully applies cost-sensitive machine learning to transform volatile environmental and conflict data into high-recall, policy-relevant humanitarian insights.
 
 ### Tech Stack & Methodology
 - **Language & Environment:** Python, Jupyter Notebook
